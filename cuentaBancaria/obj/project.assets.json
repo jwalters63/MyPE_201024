@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "diccionario/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/diccionario.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/diccionario.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "diccionario/1.0.0": {
+      "type": "project",
+      "path": "../diccionario/diccionario.csproj",
+      "msbuildProject": "../diccionario/diccionario.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "diccionario >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\asus\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Código\\c#\\clasex\\MyPE_201024\\diccionario\\diccionario.csproj": {
+              "projectPath": "D:\\Código\\c#\\clasex\\MyPE_201024\\diccionario\\diccionario.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

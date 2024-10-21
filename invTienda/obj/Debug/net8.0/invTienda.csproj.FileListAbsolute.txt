@@ -1,0 +1,15 @@
+D:\Código\c#\clasex\MyPE_201024\invTienda\bin\Debug\net8.0\invTienda.exe
+D:\Código\c#\clasex\MyPE_201024\invTienda\bin\Debug\net8.0\invTienda.deps.json
+D:\Código\c#\clasex\MyPE_201024\invTienda\bin\Debug\net8.0\invTienda.runtimeconfig.json
+D:\Código\c#\clasex\MyPE_201024\invTienda\bin\Debug\net8.0\invTienda.dll
+D:\Código\c#\clasex\MyPE_201024\invTienda\bin\Debug\net8.0\invTienda.pdb
+D:\Código\c#\clasex\MyPE_201024\invTienda\obj\Debug\net8.0\invTienda.GeneratedMSBuildEditorConfig.editorconfig
+D:\Código\c#\clasex\MyPE_201024\invTienda\obj\Debug\net8.0\invTienda.AssemblyInfoInputs.cache
+D:\Código\c#\clasex\MyPE_201024\invTienda\obj\Debug\net8.0\invTienda.AssemblyInfo.cs
+D:\Código\c#\clasex\MyPE_201024\invTienda\obj\Debug\net8.0\invTienda.csproj.CoreCompileInputs.cache
+D:\Código\c#\clasex\MyPE_201024\invTienda\obj\Debug\net8.0\invTienda.sourcelink.json
+D:\Código\c#\clasex\MyPE_201024\invTienda\obj\Debug\net8.0\invTienda.dll
+D:\Código\c#\clasex\MyPE_201024\invTienda\obj\Debug\net8.0\refint\invTienda.dll
+D:\Código\c#\clasex\MyPE_201024\invTienda\obj\Debug\net8.0\invTienda.pdb
+D:\Código\c#\clasex\MyPE_201024\invTienda\obj\Debug\net8.0\invTienda.genruntimeconfig.cache
+D:\Código\c#\clasex\MyPE_201024\invTienda\obj\Debug\net8.0\ref\invTienda.dll
