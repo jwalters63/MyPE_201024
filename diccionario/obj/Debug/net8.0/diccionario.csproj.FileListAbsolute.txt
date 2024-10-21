@@ -12,3 +12,4 @@ d:\Código\c#\clasex\MyPE_201024\diccionario\obj\Debug\net8.0\refint\diccionario
 d:\Código\c#\clasex\MyPE_201024\diccionario\obj\Debug\net8.0\diccionario.pdb
 D:\Código\c#\clasex\MyPE_201024\diccionario\obj\Debug\net8.0\diccionario.genruntimeconfig.cache
 D:\Código\c#\clasex\MyPE_201024\diccionario\obj\Debug\net8.0\ref\diccionario.dll
+D:\Código\c#\clasex\MyPE_201024\diccionario\obj\Debug\net8.0\diccionario.sourcelink.json
