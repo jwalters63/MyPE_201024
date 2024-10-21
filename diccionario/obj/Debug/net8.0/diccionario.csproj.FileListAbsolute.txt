@@ -1,0 +1,14 @@
+d:\Código\c#\clasex\MyPE_201024\diccionario\bin\Debug\net8.0\diccionario.exe
+D:\Código\c#\clasex\MyPE_201024\diccionario\bin\Debug\net8.0\diccionario.deps.json
+D:\Código\c#\clasex\MyPE_201024\diccionario\bin\Debug\net8.0\diccionario.runtimeconfig.json
+d:\Código\c#\clasex\MyPE_201024\diccionario\bin\Debug\net8.0\diccionario.dll
+d:\Código\c#\clasex\MyPE_201024\diccionario\bin\Debug\net8.0\diccionario.pdb
+d:\Código\c#\clasex\MyPE_201024\diccionario\obj\Debug\net8.0\diccionario.GeneratedMSBuildEditorConfig.editorconfig
+d:\Código\c#\clasex\MyPE_201024\diccionario\obj\Debug\net8.0\diccionario.AssemblyInfoInputs.cache
+d:\Código\c#\clasex\MyPE_201024\diccionario\obj\Debug\net8.0\diccionario.AssemblyInfo.cs
+d:\Código\c#\clasex\MyPE_201024\diccionario\obj\Debug\net8.0\diccionario.csproj.CoreCompileInputs.cache
+d:\Código\c#\clasex\MyPE_201024\diccionario\obj\Debug\net8.0\diccionario.dll
+d:\Código\c#\clasex\MyPE_201024\diccionario\obj\Debug\net8.0\refint\diccionario.dll
+d:\Código\c#\clasex\MyPE_201024\diccionario\obj\Debug\net8.0\diccionario.pdb
+D:\Código\c#\clasex\MyPE_201024\diccionario\obj\Debug\net8.0\diccionario.genruntimeconfig.cache
+D:\Código\c#\clasex\MyPE_201024\diccionario\obj\Debug\net8.0\ref\diccionario.dll
